@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumarbehera&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumarbehera" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/iadityakumarbehera" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_k_behera?logo=twitter&style=for-the-badge" alt="aditya_k_behera" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/iadityakumarbehera" target="blank"><img src="https://img.shields.io/instagram/follow/iadityakumarbehera?logo=instagram&style=for-the-badge" alt="iadityakumarbehera" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
