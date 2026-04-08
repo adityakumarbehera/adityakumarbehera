@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumarbehera&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumarbehera" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aditya_k_behera" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_k_behera?logo=twitter&style=for-the-badge" alt="aditya_k_behera" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/iadityakumarbehera" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_k_behera?logo=twitter&style=for-the-badge" alt="aditya_k_behera" /></a> </p>
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [adityakumarbehera.vercel.app](adityakumarbehera.vercel.app)
+- 👨‍💻 All of my projects are available at [adityakumarbehera.netlify.app](adityakumarbehera.netlify.app)
 
 - 💬 Ask me about **React.JS, JavaScript, HTML, CSS, Oracle SQL Database**
 
