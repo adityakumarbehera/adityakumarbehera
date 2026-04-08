@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aditya_k_behera" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_k_behera?logo=twitter&style=for-the-badge" alt="aditya_k_behera" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack and Python Fullstack**
 
 - 👨‍💻 All of my projects are available at [adityakumarbehera.netlify.app](adityakumarbehera.netlify.app)
 
