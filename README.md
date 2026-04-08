@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and Python Fullstack**
 
-- 👨‍💻 All of my projects are available at [adityakumarbehera.netlify.app](adityakumarbehera.netlify.app)
+- 👨‍💻 All of my projects are available at [adityakumarbehera.vercel.app](adityakumarbehera.vercel.app)
 
 - 💬 Ask me about **React.JS, JavaScript, HTML, CSS, Oracle SQL Database**
 
